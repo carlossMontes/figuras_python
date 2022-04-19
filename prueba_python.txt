@@ -1,0 +1,19 @@
+             ...-:::::-...                 cmontes@cmontes 
+          .-MMMMMMMMMMMMMMM-.              --------------- 
+      .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 20.1 x86_64 
+    .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: 2349G87 ThinkPad T430 
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Kernel: 5.4.0-72-generic 
+ `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Uptime: 5 mins 
+ :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Packages: 2077 (dpkg) 
+.MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Shell: bash 5.0.17 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   Resolution: 1366x768 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM:MMM:   DE: Cinnamon 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   WM: Mutter (Muffin) 
+.MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.   WM Theme: Mint-Y-Dark (Mint-Y-Dark) 
+ :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Theme: Mint-Y-Dark [GTK2/3] 
+  :MMM:MMM:`                `:MMM:MMM:     Icons: Mint-Y [GTK2/3] 
+   .MMM.MMMM:--------------:MMMM.MMM.      Terminal: gnome-terminal 
+     '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       CPU: Intel i5-3320M (4) @ 3.300GHz 
+       '.-MMMM``--:::::--``MMMM-.'         GPU: Intel 3rd Gen Core processor Gr 
+            '-MMMMMMMMMMMMM-'              Memory: 2194MiB / 5629MiB 
+               ``-:::::-``
